@@ -1,6 +1,6 @@
 Creator TheGreatDargon
 
-**Not completed list yet**
+**Not updated anymore, feel free to use and modify**
 
 Hello, This is a spreadsheet made for pokemon crystal. The intention is to minimize having to go to serebii but also being able to see what pokemon would be best to farm. This spreadsheet follows a few rules.
 
